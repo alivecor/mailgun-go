@@ -114,6 +114,7 @@ var methods = []string{
 	"unknown",
 	"smtp",
 	"http",
+	"SMTP",
 }
 
 func (m Method) String() string {
